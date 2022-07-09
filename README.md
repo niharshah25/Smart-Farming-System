@@ -8,4 +8,4 @@
 * Crop prediction shows the list of the crops that can be planted on his farm by analyzing the surrounding parameters like humidity, temperature, soil moisture, ph level, etc.
 
 * There is a brach called 'api', which has python code for the disease detection which will run on some server and our app try to communicate via a server-client mechanism to the server for getting the result for disease detection.
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/LazyVirus/Smart-Farming-System/blob/main/BTP_Final_Report_Smart_Farming_System.pdf[/embed]
